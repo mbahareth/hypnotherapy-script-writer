@@ -1,0 +1,23 @@
+# Gold standard (tick before send)
+
+- [ ] Title, duration, depth, style, language on line one
+- [ ] Voice notes a human can perform
+- [ ] Every block stamped
+- [ ] Fractionation present unless sleep/gentle skip — one recipe, numbered pauses
+- [ ] Pauses have numbers
+- [ ] 3–7 analog marks only
+- [ ] One engine + future pace
+- [ ] One metaphor or none — not three
+- [ ] Three future-pace scenes, one of them today, each with V/A/K
+- [ ] Anchor ≤ five words
+- [ ] One post-hypnotic with a real daily cue and a two-second act
+- [ ] PHS act survives *but not X* test (not a bare hint) and is not trapped only under *said / maybe / dream*
+- [ ] After a metaphor, the act is rebound on the global DRS (*When [real CUE]*). Story-*it* is not the PHS.
+- [ ] Old picture farther/softer; new picture own-eyes on 20-min-plus files
+- [ ] Scene 1 two cameras: watch, then step in
+- [ ] At most one advanced PHS add-on
+- [ ] Emergence 1–5
+- [ ] Short loop 8–12 lines
+- [ ] Production sheet: WPM, music, anchor
+- [ ] Arabic = Fus'ha
+- [ ] Timing estimate run or hand-checked
